@@ -1,6 +1,6 @@
 def display_menu():
     while True:
-        print("\nGreetings! I' Ma. Bea Mae Ynion")
+        print("\nHello! I'm Ma. Bea Mae Ynion")
         print("1. Basic Info")
         print("2. Goals")
         print("3. Comments")
@@ -13,7 +13,7 @@ def display_menu():
                 print("\nDate of Birth : July 29, 2004")
                 print("\nAge : 20")
                 print("\nEmail : mabeamaeynion@gmail.com")
-                print("\nReligion : Roman Cathokic")
+                print("\nReligion : Roman Catholic")
             case 2:
                 print("\nGoals: Improve study habits and time management.")
             case 3:
