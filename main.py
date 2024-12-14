@@ -24,6 +24,9 @@ def main_menu():
                 pass
             case 5:
                 pass
+            case 6:
+                print("Exiting...")
+                break
             case _:
                 print("Invalid choice. Please try again.")
 
